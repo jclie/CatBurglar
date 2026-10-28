@@ -76,6 +76,7 @@
   <Project Path="Unity.PathTracing.Runtime.csproj" />
   <Project Path="Unity.2D.Common.Runtime.csproj" />
   <Project Path="Unity.PathTracing.Editor.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
   <Project Path="Unity.AppUI.Editor.csproj" />
   <Project Path="Unity.Settings.Editor.csproj" />
   <Project Path="Unity.InputSystem.TestFramework.csproj" />
@@ -107,7 +108,6 @@
   <Project Path="Unity.Collections.Tests.CoreCLR.PrivateJobNested.csproj" />
   <Project Path="Unity.InferenceEngine.iOSBLAS.csproj" />
   <Project Path="Unity.PlasticSCM.Editor.Entities.csproj" />
-  <Project Path="Assembly-CSharp.csproj" />
   <Project Path="Unity.Collections.Tests.CoreCLR.ProtectedJobNested.csproj" />
   <Project Path="Unity.Burst.csproj" />
   <Project Path="Unity.Rendering.LightTransport.Editor.csproj" />

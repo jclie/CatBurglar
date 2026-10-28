@@ -1,0 +1,366 @@
+fileFormatVersion: 2
+guid: e510a18f728f84b17b519a6a462fb65b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7142514178639612131
+    second: Chibi Cat and Homeowner Sprite Sheets_0
+  - first:
+      213: 3863969047691484154
+    second: Chibi Cat and Homeowner Sprite Sheets_1
+  - first:
+      213: 8885862482891064328
+    second: Chibi Cat and Homeowner Sprite Sheets_2
+  - first:
+      213: 5186744512375833980
+    second: Chibi Cat and Homeowner Sprite Sheets_3
+  - first:
+      213: 7782433041261363961
+    second: Chibi Cat and Homeowner Sprite Sheets_4
+  - first:
+      213: -472035426058447932
+    second: Chibi Cat and Homeowner Sprite Sheets_5
+  - first:
+      213: -4210857457288785593
+    second: Chibi Cat and Homeowner Sprite Sheets_6
+  - first:
+      213: 2313170184710704889
+    second: Chibi Cat and Homeowner Sprite Sheets_7
+  - first:
+      213: -571073865871178608
+    second: Chibi Cat and Homeowner Sprite Sheets_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Homeowner_Idle_Down
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 659
+        width: 115
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e841058dce4f1360800000000000000
+      internalID: 7142514178639612131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chibi Cat and Homeowner Sprite Sheets_1
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 863
+        width: 116
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb51ce60639f9530800000000000000
+      internalID: 3863969047691484154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chibi Cat and Homeowner Sprite Sheets_2
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 855
+        width: 573
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80441bf49dce05b70800000000000000
+      internalID: 8885862482891064328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chibi Cat and Homeowner Sprite Sheets_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261
+        width: 891
+        height: 403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c754ed847a40bf740800000000000000
+      internalID: 5186744512375833980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chibi Cat and Homeowner Sprite Sheets_4
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 21
+        width: 644
+        height: 836
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f285a03e91c00c60800000000000000
+      internalID: 7782433041261363961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chibi Cat and Homeowner Sprite Sheets_5
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 19
+        width: 877
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3d26ce74ef279f0800000000000000
+      internalID: -472035426058447932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chibi Cat and Homeowner Sprite Sheets_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 55
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7415f72e3770095c0800000000000000
+      internalID: -4210857457288785593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chibi Cat and Homeowner Sprite Sheets_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 49
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fec4bcf6080a1020800000000000000
+      internalID: 2313170184710704889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chibi Cat and Homeowner Sprite Sheets_8
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 23
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0944d3c38532318f0800000000000000
+      internalID: -571073865871178608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2d7a0cf60d1fa41d6bdbeaf85e52a0a6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Chibi Cat and Homeowner Sprite Sheets_1: 3863969047691484154
+      Chibi Cat and Homeowner Sprite Sheets_2: 8885862482891064328
+      Chibi Cat and Homeowner Sprite Sheets_3: 5186744512375833980
+      Chibi Cat and Homeowner Sprite Sheets_4: 7782433041261363961
+      Chibi Cat and Homeowner Sprite Sheets_5: -472035426058447932
+      Chibi Cat and Homeowner Sprite Sheets_6: -4210857457288785593
+      Chibi Cat and Homeowner Sprite Sheets_7: 2313170184710704889
+      Chibi Cat and Homeowner Sprite Sheets_8: -571073865871178608
+      Homeowner_Idle_Down: 7142514178639612131
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
