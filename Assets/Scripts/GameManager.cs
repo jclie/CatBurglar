@@ -1,9 +1,19 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
+
 
 // Manages important information for the current game,
 // including score, times caught, and the game timer
 public class GameManager : MonoBehaviour
 {
+    // Stores the final score so the Results scene
+    // can access it after MainGame closes
+    public static int finalScore = 0;
+
+    // Stores the final number of times caught
+    // for the Results scene
+    public static int finalTimesCaught = 0;
+
     // Stores the player's total score
     public int score = 0;
 
@@ -71,15 +81,19 @@ public class GameManager : MonoBehaviour
     // Ends the current game
     private void EndGame()
     {
-        // Stop the timer/game
+        // Stop gameplay from continuing
         gameActive = false;
 
-        // Temporary message
-        // Later this will open the Results screen
-        Debug.Log("GAME OVER!");
+        // Save the final results before changing scenes
+        finalScore = score;
+        finalTimesCaught = timesCaught;
 
-        // Display the final results for testing
-        Debug.Log("Final Score: " + score);
-        Debug.Log("Times Caught: " + timesCaught);
+        // Confirm the results in the Console
+        Debug.Log("GAME OVER!");
+        Debug.Log("Final Score: " + finalScore);
+        Debug.Log("Times Caught: " + finalTimesCaught);
+
+        // Load the Results screen
+        SceneManager.LoadScene("ResultScene");
     }
 }

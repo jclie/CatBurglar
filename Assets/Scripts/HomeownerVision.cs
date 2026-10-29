@@ -107,6 +107,25 @@ public class HomeownerVision : MonoBehaviour
     // the homeowner and the Player
     private void CheckLineOfSight()
     {
+        // Get the Player's movement component so we can
+        // check whether the Player is currently hiding
+        PlayerMovement playerMovement =
+            player.GetComponent<PlayerMovement>();
+
+        // The Homeowner cannot detect the Player
+        // while the Player is hiding
+        if (playerMovement != null &&
+            playerMovement.isHiding)
+        {
+            // Stop detecting the Player
+            playerDetected = false;
+
+            // Reset any detection progress
+            detectionTimer = 0f;
+
+            return;
+        }
+
         // Direction from the Vision object to the Player
         Vector2 direction =
             player.position - transform.position;

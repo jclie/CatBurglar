@@ -14,6 +14,9 @@ public class PlayerMovement : MonoBehaviour
     // Stores the direction the player is moving
     private Vector2 movement;
 
+    // Tracks whether the Player is currently hiding
+    public bool isHiding = false;
+
     // Start runs once when the game begins
     void Start()
     {
@@ -27,6 +30,15 @@ public class PlayerMovement : MonoBehaviour
     {
         // Reset movement before checking for new input
         movement = Vector2.zero;
+
+        // Prevent movement input while the Player is hiding
+        if (isHiding)
+        {
+            // Stop any movement that was stored previously
+            movement = Vector2.zero;
+
+            return;
+        }
 
         // Move up when W is pressed
         if (Keyboard.current.wKey.isPressed)
