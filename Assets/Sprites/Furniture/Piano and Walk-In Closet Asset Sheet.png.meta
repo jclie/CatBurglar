@@ -1,0 +1,470 @@
+fileFormatVersion: 2
+guid: e9046ab236fbd480e82d76b5f212d7bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5988562904801209999
+    second: Piano and Walk-In Closet Asset Sheet_0
+  - first:
+      213: 5707654379440421753
+    second: Piano and Walk-In Closet Asset Sheet_1
+  - first:
+      213: -363448016745822594
+    second: Piano and Walk-In Closet Asset Sheet_2
+  - first:
+      213: -3298356610941483711
+    second: Piano and Walk-In Closet Asset Sheet_3
+  - first:
+      213: -3546926317510226410
+    second: Piano and Walk-In Closet Asset Sheet_4
+  - first:
+      213: -1244289872595654945
+    second: Piano and Walk-In Closet Asset Sheet_5
+  - first:
+      213: -886062502135733123
+    second: Piano and Walk-In Closet Asset Sheet_6
+  - first:
+      213: -65464153836341974
+    second: Piano and Walk-In Closet Asset Sheet_7
+  - first:
+      213: -1328264232897102027
+    second: Piano and Walk-In Closet Asset Sheet_8
+  - first:
+      213: -134933079091973938
+    second: Piano and Walk-In Closet Asset Sheet_9
+  - first:
+      213: -4804176096425131812
+    second: Piano and Walk-In Closet Asset Sheet_10
+  - first:
+      213: 5354839726516063926
+    second: Piano and Walk-In Closet Asset Sheet_11
+  - first:
+      213: -8605625174815777078
+    second: Piano and Walk-In Closet Asset Sheet_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Piano
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 635
+        width: 528
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1711e3054c954eca0800000000000000
+      internalID: -5988562904801209999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piano and Walk-In Closet Asset Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 689
+        width: 143
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bbf3bea69a53f40800000000000000
+      internalID: 5707654379440421753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piano and Walk-In Closet Asset Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 753
+        width: 371
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e768b8354f5c4faf0800000000000000
+      internalID: -363448016745822594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piano and Walk-In Closet Asset Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 689
+        width: 269
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14585464322e932d0800000000000000
+      internalID: -3298356610941483711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piano and Walk-In Closet Asset Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 829
+        width: 117
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e81508e49c6cec0800000000000000
+      internalID: -3546926317510226410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piano and Walk-In Closet Asset Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 703
+        width: 259
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6e15214f46bbee0800000000000000
+      internalID: -1244289872595654945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piano and Walk-In Closet Asset Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 683
+        width: 265
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74e76f49d214b3f0800000000000000
+      internalID: -886062502135733123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piano and Walk-In Closet Asset Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 689
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25301de2bc671ff0800000000000000
+      internalID: -65464153836341974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClothingRack
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 530
+        width: 236
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fbf46b7be019de0800000000000000
+      internalID: -1328264232897102027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piano and Walk-In Closet Asset Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 403
+        width: 173
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0f548541f902ef0800000000000000
+      internalID: -134933079091973938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piano and Walk-In Closet Asset Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 445
+        width: 156
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0482e3b43245db0800000000000000
+      internalID: -4804176096425131812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piano and Walk-In Closet Asset Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 411
+        width: 92
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bec3203c56305a40800000000000000
+      internalID: 5354839726516063926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piano and Walk-In Closet Asset Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 59
+        width: 345
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace52f08f7da29880800000000000000
+      internalID: -8605625174815777078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3924b997312d0485395b521a0e53afc0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ClothingRack: -1328264232897102027
+      Piano: -5988562904801209999
+      Piano and Walk-In Closet Asset Sheet_1: 5707654379440421753
+      Piano and Walk-In Closet Asset Sheet_10: -4804176096425131812
+      Piano and Walk-In Closet Asset Sheet_11: 5354839726516063926
+      Piano and Walk-In Closet Asset Sheet_12: -8605625174815777078
+      Piano and Walk-In Closet Asset Sheet_2: -363448016745822594
+      Piano and Walk-In Closet Asset Sheet_3: -3298356610941483711
+      Piano and Walk-In Closet Asset Sheet_4: -3546926317510226410
+      Piano and Walk-In Closet Asset Sheet_5: -1244289872595654945
+      Piano and Walk-In Closet Asset Sheet_6: -886062502135733123
+      Piano and Walk-In Closet Asset Sheet_7: -65464153836341974
+      Piano and Walk-In Closet Asset Sheet_9: -134933079091973938
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

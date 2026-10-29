@@ -1,0 +1,842 @@
+fileFormatVersion: 2
+guid: 32480aa03bba9487c8327ed35fa206b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 855565117099634253
+    second: Cozy Home Furniture Sprite Sheet_0
+  - first:
+      213: -809676136013435221
+    second: Cozy Home Furniture Sprite Sheet_1
+  - first:
+      213: -4183035502887290303
+    second: Cozy Home Furniture Sprite Sheet_2
+  - first:
+      213: -2719285093698087377
+    second: Cozy Home Furniture Sprite Sheet_3
+  - first:
+      213: 6552057974141428920
+    second: Cozy Home Furniture Sprite Sheet_4
+  - first:
+      213: 1117176218623968328
+    second: Cozy Home Furniture Sprite Sheet_5
+  - first:
+      213: 6652946017878505579
+    second: Cozy Home Furniture Sprite Sheet_6
+  - first:
+      213: 8981026150371311898
+    second: Cozy Home Furniture Sprite Sheet_7
+  - first:
+      213: 8124777914808995590
+    second: Cozy Home Furniture Sprite Sheet_8
+  - first:
+      213: -5976820656543279668
+    second: Cozy Home Furniture Sprite Sheet_9
+  - first:
+      213: -3946076827078723820
+    second: Cozy Home Furniture Sprite Sheet_10
+  - first:
+      213: 6079012748603355707
+    second: Cozy Home Furniture Sprite Sheet_11
+  - first:
+      213: 220992916545646380
+    second: Cozy Home Furniture Sprite Sheet_12
+  - first:
+      213: 7837919653760642630
+    second: Cozy Home Furniture Sprite Sheet_13
+  - first:
+      213: 5490150075876726413
+    second: Cozy Home Furniture Sprite Sheet_14
+  - first:
+      213: 167482206555950188
+    second: Cozy Home Furniture Sprite Sheet_15
+  - first:
+      213: -7062392751067339931
+    second: Cozy Home Furniture Sprite Sheet_16
+  - first:
+      213: 9219826661089147077
+    second: Cozy Home Furniture Sprite Sheet_17
+  - first:
+      213: 1726380248371938485
+    second: Cozy Home Furniture Sprite Sheet_18
+  - first:
+      213: -6037415503041074774
+    second: Cozy Home Furniture Sprite Sheet_19
+  - first:
+      213: 1097897977289864532
+    second: Cozy Home Furniture Sprite Sheet_20
+  - first:
+      213: 6689154380213916345
+    second: Cozy Home Furniture Sprite Sheet_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Couch
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 815
+        width: 390
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e60f6e0f39fdb00800000000000000
+      internalID: 855565117099634253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Couch Chair
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 817
+        width: 207
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baeeec918d373c4f0800000000000000
+      internalID: -809676136013435221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoffeeTable
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 810
+        width: 286
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a3e8f6f5fd2f5c0800000000000000
+      internalID: -4183035502887290303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelevisionStand
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 815
+        width: 368
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f265c1b5d98234ad0800000000000000
+      internalID: -2719285093698087377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookShelfTall
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 798
+        width: 170
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4277063069dea50800000000000000
+      internalID: 6552057974141428920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Couch2
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 606
+        width: 335
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844889e0ad1018f00800000000000000
+      internalID: 1117176218623968328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dresser
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 609
+        width: 251
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 6}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b687f798723045c50800000000000000
+      internalID: 6652946017878505579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fridge
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 549
+        width: 150
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11406343b303ac70800000000000000
+      internalID: 8981026150371311898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamp
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 605
+        width: 174
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f0123777201c070800000000000000
+      internalID: 8124777914808995590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 609
+        width: 123
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5558887411e0da0800000000000000
+      internalID: -5976820656543279668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedside Table
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 427
+        width: 120
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41772917808bc39c0800000000000000
+      internalID: -3946076827078723820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cozy Home Furniture Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 412
+        width: 438
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32f29903edfc5450800000000000000
+      internalID: 6079012748603355707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaming Setup
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 162
+        width: 278
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fa49003ef111300800000000000000
+      internalID: 220992916545646380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 14
+        width: 156
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ea474e562e5cc60800000000000000
+      internalID: 7837919653760642630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carpet
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 195
+        width: 227
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86573ce76ee03c40800000000000000
+      internalID: 5490150075876726413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cozy Home Furniture Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 15
+        width: 292
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c47f3fd24035200800000000000000
+      internalID: 167482206555950188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cozy Home Furniture Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 183
+        width: 163
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563665806375dfd90800000000000000
+      internalID: -7062392751067339931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WashingDryingMachine
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 177
+        width: 234
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8f4e0ef7763ff70800000000000000
+      internalID: 9219826661089147077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shower
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 15
+        width: 200
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4c57b60b555f710800000000000000
+      internalID: 1726380248371938485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cozy Home Furniture Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 31
+        width: 137
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9eccb669ac63ca0800000000000000
+      internalID: -6037415503041074774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cozy Home Furniture Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 31
+        width: 150
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4557bf7b4648c3f00800000000000000
+      internalID: 1097897977289864532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatHome
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 17
+        width: 178
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b21668d776a4dc50800000000000000
+      internalID: 6689154380213916345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiningTable
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 606
+        width: 288
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76801f200bc5d469894a7b94363d7bd7
+      internalID: 445562184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniTable
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 601
+        width: 251
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 12, z: 0, w: 6}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e78106deb818471db3e079d6904be9f
+      internalID: -1593354639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoyBed
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 347
+        width: 282
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e9bff8588b647d9802c9d10692986a
+      internalID: -1883939781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoBed
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 347
+        width: 282
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43376a5d2d02c43d3b348f0470f40f4b
+      internalID: -699535762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toilet
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 17
+        width: 137
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a3af897f565494eb40b396ce98eacd
+      internalID: -809791830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tub
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 21
+        width: 260
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff712d97349a14c1685bf27d46045dd0
+      internalID: 748455194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 749746e59ad2d4021b5c928391fdc253
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bedside Table: -3946076827078723820
+      BookShelfTall: 6552057974141428920
+      BoyBed: -1883939781
+      Carpet: 5490150075876726413
+      CatHome: 6689154380213916345
+      CoffeeTable: -4183035502887290303
+      Couch: 855565117099634253
+      Couch Chair: -809676136013435221
+      Couch2: 1117176218623968328
+      Cozy Home Furniture Sprite Sheet_11: 6079012748603355707
+      Cozy Home Furniture Sprite Sheet_15: 167482206555950188
+      Cozy Home Furniture Sprite Sheet_16: -7062392751067339931
+      Cozy Home Furniture Sprite Sheet_19: -6037415503041074774
+      Cozy Home Furniture Sprite Sheet_20: 1097897977289864532
+      DiningTable: 445562184
+      Dresser: 6652946017878505579
+      Fridge: 8981026150371311898
+      Gaming Setup: 220992916545646380
+      JoJoBed: -699535762
+      Lamp: 8124777914808995590
+      MiniTable: -1593354639
+      Shower: 1726380248371938485
+      Sink: 7837919653760642630
+      TelevisionStand: -2719285093698087377
+      Toilet: -809791830
+      Tree: -5976820656543279668
+      Tub: 748455194
+      WashingDryingMachine: 9219826661089147077
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

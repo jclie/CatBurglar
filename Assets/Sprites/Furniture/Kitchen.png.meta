@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: b88ee446f039e43179f7171d4e23b6f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4189495447675931788
+    second: Cozy Kitchen Furniture and Appliance Tileset_0
+  - first:
+      213: 232427678483562294
+    second: Cozy Kitchen Furniture and Appliance Tileset_1
+  - first:
+      213: 3311775305571892379
+    second: Cozy Kitchen Furniture and Appliance Tileset_2
+  - first:
+      213: -5370557081316224803
+    second: Cozy Kitchen Furniture and Appliance Tileset_3
+  - first:
+      213: 6568960029861165228
+    second: Cozy Kitchen Furniture and Appliance Tileset_4
+  - first:
+      213: -519140170673281598
+    second: Cozy Kitchen Furniture and Appliance Tileset_5
+  - first:
+      213: -8654475544678482791
+    second: Cozy Kitchen Furniture and Appliance Tileset_6
+  - first:
+      213: 1989603948061686130
+    second: Cozy Kitchen Furniture and Appliance Tileset_7
+  - first:
+      213: -246574233390639315
+    second: Cozy Kitchen Furniture and Appliance Tileset_8
+  - first:
+      213: -617459275474001744
+    second: Cozy Kitchen Furniture and Appliance Tileset_9
+  - first:
+      213: -1170005489530278620
+    second: Cozy Kitchen Furniture and Appliance Tileset_10
+  - first:
+      213: -1997022164186002170
+    second: Cozy Kitchen Furniture and Appliance Tileset_11
+  - first:
+      213: -5149903003798400481
+    second: Cozy Kitchen Furniture and Appliance Tileset_12
+  - first:
+      213: 4551754056071655902
+    second: Cozy Kitchen Furniture and Appliance Tileset_13
+  - first:
+      213: 1983542300797812156
+    second: Cozy Kitchen Furniture and Appliance Tileset_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cozy Kitchen Furniture and Appliance Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 777
+        width: 324
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473f825561cebd5c0800000000000000
+      internalID: -4189495447675931788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cozy Kitchen Furniture and Appliance Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 491
+        width: 388
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f3bfbfdbfb93300800000000000000
+      internalID: 232427678483562294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 763
+        width: 351
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cf588081ac5fd20800000000000000
+      internalID: 3311775305571892379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stove
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 763
+        width: 428
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0103af9c2f775b0800000000000000
+      internalID: -5370557081316224803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cozy Kitchen Furniture and Appliance Tileset_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 493
+        width: 89
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca83d93e752a92b50800000000000000
+      internalID: 6568960029861165228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookShelf
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 479
+        width: 92
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5226ae3c4abc8f0800000000000000
+      internalID: -519140170673281598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabinet
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 477
+        width: 92
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c3222785025e780800000000000000
+      internalID: -8654475544678482791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cozy Kitchen Furniture and Appliance Tileset_7
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 605
+        width: 183
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2797ee7df3e7c9b10800000000000000
+      internalID: 1989603948061686130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cozy Kitchen Furniture and Appliance Tileset_8
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 491
+        width: 568
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d279cf78a0ef39cf0800000000000000
+      internalID: -246574233390639315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cozy Kitchen Furniture and Appliance Tileset_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 595
+        height: 465
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b02a167f085e67f0800000000000000
+      internalID: -617459275474001744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cozy Kitchen Furniture and Appliance Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 0
+        width: 499
+        height: 596
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d6a4bc43e43cfe0800000000000000
+      internalID: -1170005489530278620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cozy Kitchen Furniture and Appliance Tileset_11
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 233
+        width: 432
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d8c1f1ce62944e0800000000000000
+      internalID: -1997022164186002170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cozy Kitchen Furniture and Appliance Tileset_12
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 61
+        width: 84
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1211eed08ed788b0800000000000000
+      internalID: -5149903003798400481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cozy Kitchen Furniture and Appliance Tileset_13
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 77
+        width: 173
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed13811a2341b2f30800000000000000
+      internalID: 4551754056071655902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cozy Kitchen Furniture and Appliance Tileset_14
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 32
+        width: 180
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdb30c9635f68b10800000000000000
+      internalID: 1983542300797812156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1cceb1f27b1154852b4b3af84ad6a4b3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BookShelf: -519140170673281598
+      Cozy Kitchen Furniture and Appliance Tileset_0: -4189495447675931788
+      Cozy Kitchen Furniture and Appliance Tileset_1: 232427678483562294
+      Cozy Kitchen Furniture and Appliance Tileset_10: -1170005489530278620
+      Cozy Kitchen Furniture and Appliance Tileset_11: -1997022164186002170
+      Cozy Kitchen Furniture and Appliance Tileset_12: -5149903003798400481
+      Cozy Kitchen Furniture and Appliance Tileset_13: 4551754056071655902
+      Cozy Kitchen Furniture and Appliance Tileset_14: 1983542300797812156
+      Cozy Kitchen Furniture and Appliance Tileset_4: 6568960029861165228
+      Cozy Kitchen Furniture and Appliance Tileset_7: 1989603948061686130
+      Cozy Kitchen Furniture and Appliance Tileset_8: -246574233390639315
+      Cozy Kitchen Furniture and Appliance Tileset_9: -617459275474001744
+      Sink: 3311775305571892379
+      Stove: -5370557081316224803
+      cabinet: -8654475544678482791
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
