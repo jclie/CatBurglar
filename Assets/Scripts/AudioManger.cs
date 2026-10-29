@@ -16,7 +16,7 @@ public class AudioManager : MonoBehaviour
     public AudioClip alertSound;
 
     // Sound played when the Player gets caught
-    public AudioClip caughtSound;
+    public AudioClip timerRunningLowSound;
 
     // Sound played when the Player hides
     public AudioClip hideSound;
@@ -49,9 +49,9 @@ public class AudioManager : MonoBehaviour
     }
 
     // Plays the caught sound
-    public void PlayCaught()
+    public void PlayTimerRunningLow()
     {
-        audioSource.PlayOneShot(caughtSound);
+        audioSource.PlayOneShot(timerRunningLowSound);
     }
 
     // Plays the hiding sound

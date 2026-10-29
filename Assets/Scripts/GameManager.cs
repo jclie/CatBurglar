@@ -30,6 +30,10 @@ public class GameManager : MonoBehaviour
     // Tracks whether the game is currently active
     public bool gameActive = true;
 
+    // Stores the last second that played a timer warning sound
+    // so the sound only plays once per second
+    private int lastWarningSecond = -1;
+
     // Start runs once when the game begins
     void Start()
     {
@@ -46,6 +50,30 @@ public class GameManager : MonoBehaviour
             // Subtract the amount of time that passed
             // since the previous frame
             timeRemaining -= Time.deltaTime;
+
+            // Check whether the game is in its final 10 seconds
+            if (timeRemaining <= 10f && timeRemaining > 0f)
+            {
+                // Convert the remaining time into a whole number
+                int currentSecond = Mathf.CeilToInt(timeRemaining);
+
+                // Only play one warning sound for each second
+                if (currentSecond != lastWarningSecond)
+                {
+                    // Find the AudioManager
+                    AudioManager audioManager =
+                        FindAnyObjectByType<AudioManager>();
+
+                    // Play the timer warning sound
+                    if (audioManager != null)
+                    {
+                        audioManager.PlayLootPickup();
+                    }
+
+                    // Remember which second already played a sound
+                    lastWarningSecond = currentSecond;
+                }
+            }
 
             // Prevent the timer from going below zero
             if (timeRemaining <= 0f)
@@ -87,6 +115,15 @@ public class GameManager : MonoBehaviour
         // Save the final results before changing scenes
         finalScore = score;
         finalTimesCaught = timesCaught;
+
+        // Find the AudioManager and play the pickup sound
+        AudioManager audioManager =
+            FindAnyObjectByType<AudioManager>();
+
+        if (audioManager != null)
+        {
+            audioManager.PlayGameOver();
+        }
 
         // Confirm the results in the Console
         Debug.Log("GAME OVER!");

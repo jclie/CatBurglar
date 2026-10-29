@@ -74,6 +74,15 @@ public class Loot : MonoBehaviour
         // Only remove the loot from the floor if pickup succeeded
         if (pickupSuccessful)
         {
+            // Find the AudioManager and play the pickup sound
+            AudioManager audioManager =
+                FindAnyObjectByType<AudioManager>();
+
+            if (audioManager != null)
+            {
+                audioManager.PlayLootPickup();
+            }
+            
             Debug.Log("Picked up " + itemName + "!");
 
             // Hide this loot object

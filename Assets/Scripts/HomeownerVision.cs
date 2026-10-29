@@ -28,6 +28,10 @@ public class HomeownerVision : MonoBehaviour
     // Position where the player returns after being caught
     public Transform playerStart;
 
+    // Tracks whether the alert sound has already played
+    // during the current detection
+    private bool alertSoundPlayed = false;
+
     // Update runs once every frame
     void Update()
     {
@@ -84,6 +88,10 @@ public class HomeownerVision : MonoBehaviour
     // the homeowner's vision trigger
     private void OnTriggerExit2D(Collider2D other)
     {
+        // Allow the alert sound to play again
+        // during the next detection
+        alertSoundPlayed = false;
+
         // Only react to the Player
         if (other.CompareTag("Player"))
         {
@@ -141,15 +149,39 @@ public class HomeownerVision : MonoBehaviour
             wallLayer
         );
 
-        // If no wall was hit, the homeowner can see the Player
+        // If no wall is blocking the Player,
+        // the Homeowner can see the Player
         if (wallHit.collider == null)
         {
+            // Player is currently detected
             playerDetected = true;
+
+            // Only play the alert sound once
+            // when detection first begins
+            if (!alertSoundPlayed)
+            {
+                // Find the AudioManager
+                AudioManager audioManager =
+                    FindAnyObjectByType<AudioManager>();
+
+                // Play the Homeowner alert sound
+                if (audioManager != null)
+                {
+                    audioManager.PlayAlert();
+                }
+
+                // Prevent the sound from playing every frame
+                alertSoundPlayed = true;
+            }
         }
         else
         {
             // A wall is blocking the Player
             playerDetected = false;
+
+            // Allow the alert sound to play again
+            // the next time the Homeowner sees the Player
+            alertSoundPlayed = false;
         }
     }
 
@@ -194,6 +226,9 @@ public class HomeownerVision : MonoBehaviour
         playerInsideVision = false;
         detectionTimer = 0f;
 
+        // Reset the alert because the Player successfully hid
+        alertSoundPlayed = false;
+        
         // Clear the stored Player reference
         player = null;
     }

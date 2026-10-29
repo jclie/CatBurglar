@@ -100,6 +100,15 @@ public class DepositZone : MonoBehaviour
         // Empty the player's inventory
         playerInventory.ClearCarriedItem();
 
+        // Find the AudioManager and play the pickup sound
+        AudioManager audioManager =
+            FindAnyObjectByType<AudioManager>();
+
+        if (audioManager != null)
+        {
+            audioManager.PlayLootDeposit();
+        }
+
         // Confirm that the deposit worked
         Debug.Log(
             "Deposited " +

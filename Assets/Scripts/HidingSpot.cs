@@ -109,6 +109,15 @@ public class HidingSpot : MonoBehaviour
             playerSprite.color = color;
         }
 
+        // Find the AudioManager and play the pickup sound
+        AudioManager audioManager =
+            FindAnyObjectByType<AudioManager>();
+
+        if (audioManager != null)
+        {
+            audioManager.PlayHide();
+        }
+
         Debug.Log("Player is hiding.");
     }
 
