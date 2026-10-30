@@ -162,10 +162,10 @@ TextureImporter:
       name: Rug1
       rect:
         serializedVersion: 2
-        x: 883
-        y: 276
-        width: 182
-        height: 125
+        x: 895
+        y: 279
+        width: 160
+        height: 122
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
