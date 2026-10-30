@@ -1,0 +1,1588 @@
+fileFormatVersion: 2
+guid: aceaf8cc26b0d4de797a9d30ae18487c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2768090650231206883
+    second: Cute Cat Toy Asset Sheet_0
+  - first:
+      213: -6952300567054922050
+    second: Cute Cat Toy Asset Sheet_1
+  - first:
+      213: 9139365982019211649
+    second: Cute Cat Toy Asset Sheet_2
+  - first:
+      213: -675372697188560083
+    second: Cute Cat Toy Asset Sheet_3
+  - first:
+      213: 6319821137305337686
+    second: Cute Cat Toy Asset Sheet_4
+  - first:
+      213: -5730288950317160149
+    second: Cute Cat Toy Asset Sheet_5
+  - first:
+      213: -7534958180660666574
+    second: Cute Cat Toy Asset Sheet_6
+  - first:
+      213: 6537146656457218529
+    second: Cute Cat Toy Asset Sheet_7
+  - first:
+      213: -8911404591885587068
+    second: Cute Cat Toy Asset Sheet_8
+  - first:
+      213: -1585479490541666938
+    second: Cute Cat Toy Asset Sheet_9
+  - first:
+      213: -722186852134119816
+    second: Cute Cat Toy Asset Sheet_10
+  - first:
+      213: -7623038966140848113
+    second: Cute Cat Toy Asset Sheet_11
+  - first:
+      213: -6635980058779451787
+    second: Cute Cat Toy Asset Sheet_12
+  - first:
+      213: -4771445595735460150
+    second: Cute Cat Toy Asset Sheet_13
+  - first:
+      213: 6936568309207723197
+    second: Cute Cat Toy Asset Sheet_14
+  - first:
+      213: -6688781188221064971
+    second: Cute Cat Toy Asset Sheet_15
+  - first:
+      213: 3800939049024882925
+    second: Cute Cat Toy Asset Sheet_16
+  - first:
+      213: 9091600280844623856
+    second: Cute Cat Toy Asset Sheet_17
+  - first:
+      213: 4363821512167993678
+    second: Cute Cat Toy Asset Sheet_18
+  - first:
+      213: -8685764322476577370
+    second: Cute Cat Toy Asset Sheet_19
+  - first:
+      213: 4589263618193455127
+    second: Cute Cat Toy Asset Sheet_20
+  - first:
+      213: 4755595110014188039
+    second: Cute Cat Toy Asset Sheet_21
+  - first:
+      213: -3102483867277044211
+    second: Cute Cat Toy Asset Sheet_22
+  - first:
+      213: -4582749670593190252
+    second: Cute Cat Toy Asset Sheet_23
+  - first:
+      213: -927664021755223793
+    second: Cute Cat Toy Asset Sheet_24
+  - first:
+      213: -8931772490819215254
+    second: Cute Cat Toy Asset Sheet_25
+  - first:
+      213: -2583972897131872514
+    second: Cute Cat Toy Asset Sheet_26
+  - first:
+      213: 6218505473301172040
+    second: Cute Cat Toy Asset Sheet_27
+  - first:
+      213: 3355250166147837145
+    second: Cute Cat Toy Asset Sheet_28
+  - first:
+      213: -8548746301369136974
+    second: Cute Cat Toy Asset Sheet_29
+  - first:
+      213: 7869818432256321443
+    second: Cute Cat Toy Asset Sheet_30
+  - first:
+      213: -4497257582474498006
+    second: Cute Cat Toy Asset Sheet_31
+  - first:
+      213: -8509283050195508482
+    second: Cute Cat Toy Asset Sheet_32
+  - first:
+      213: 7692606515375552411
+    second: Cute Cat Toy Asset Sheet_33
+  - first:
+      213: -2024045841402229020
+    second: Cute Cat Toy Asset Sheet_34
+  - first:
+      213: 9112606247223301785
+    second: Cute Cat Toy Asset Sheet_35
+  - first:
+      213: 3095268762045277351
+    second: Cute Cat Toy Asset Sheet_36
+  - first:
+      213: -3505865620917447652
+    second: Cute Cat Toy Asset Sheet_37
+  - first:
+      213: 2408431117223973388
+    second: Cute Cat Toy Asset Sheet_38
+  - first:
+      213: 7783558206857106970
+    second: Cute Cat Toy Asset Sheet_39
+  - first:
+      213: -2644216646065116062
+    second: Cute Cat Toy Asset Sheet_40
+  - first:
+      213: 1155769462672763616
+    second: Cute Cat Toy Asset Sheet_41
+  - first:
+      213: -7615806025028268195
+    second: Cute Cat Toy Asset Sheet_42
+  - first:
+      213: 3317640129449166114
+    second: Cute Cat Toy Asset Sheet_43
+  - first:
+      213: -2291267620342146894
+    second: Cute Cat Toy Asset Sheet_44
+  - first:
+      213: 2172917952687037888
+    second: Cute Cat Toy Asset Sheet_45
+  - first:
+      213: -8788783728025777150
+    second: Cute Cat Toy Asset Sheet_46
+  - first:
+      213: -7303517518186910831
+    second: Cute Cat Toy Asset Sheet_47
+  - first:
+      213: -736686333808829697
+    second: Cute Cat Toy Asset Sheet_48
+  - first:
+      213: -1648136075473735711
+    second: Cute Cat Toy Asset Sheet_49
+  - first:
+      213: -5086954501765574350
+    second: Cute Cat Toy Asset Sheet_50
+  - first:
+      213: 6748921272121981477
+    second: Cute Cat Toy Asset Sheet_51
+  - first:
+      213: 6207010851155779540
+    second: Cute Cat Toy Asset Sheet_52
+  - first:
+      213: -6044026237751469662
+    second: Cute Cat Toy Asset Sheet_53
+  - first:
+      213: -600202941492426208
+    second: Cute Cat Toy Asset Sheet_54
+  - first:
+      213: 1191452841322322377
+    second: Cute Cat Toy Asset Sheet_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 939
+        width: 47
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e37c19c7cb3a6620800000000000000
+      internalID: 2768090650231206883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Yarn
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 709
+        width: 285
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebec1f81877748f90800000000000000
+      internalID: -6952300567054922050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 994
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1815b8e20fc85de70800000000000000
+      internalID: 9139365982019211649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1007
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2314153c1890a6f0800000000000000
+      internalID: -675372697188560083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 902
+        width: 105
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ff61d27d384b750800000000000000
+      internalID: 6319821137305337686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 953
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29efff5f8ce970b0800000000000000
+      internalID: -5730288950317160149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 493
+        width: 333
+        height: 525
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f1c44e4737e6790800000000000000
+      internalID: -7534958180660666574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 945
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9d3ceaf3c98ba50800000000000000
+      internalID: 6537146656457218529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yarn
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 709
+        width: 244
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48defd20db4545480800000000000000
+      internalID: -8911404591885587068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 949
+        width: 71
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68db897bdce3ff9e0800000000000000
+      internalID: -1585479490541666938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 959
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876961162e64af5f0800000000000000
+      internalID: -722186852134119816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 975
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08b63ae276853690800000000000000
+      internalID: -7623038966140848113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 963
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57effd3ab4348e3a0800000000000000
+      internalID: -6635980058779451787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 926
+        width: 117
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6f519c28b68cdb0800000000000000
+      internalID: -4771445595735460150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Yarn
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 736
+        width: 267
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcee8e2024a34060800000000000000
+      internalID: 6936568309207723197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 935
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8a4cfa2fcac23a0800000000000000
+      internalID: -6688781188221064971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 934
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de80a064de5afb430800000000000000
+      internalID: 3800939049024882925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 707
+        width: 202
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffd59b394adb2e70800000000000000
+      internalID: 9091600280844623856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 918
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e413bf77b886f8c30800000000000000
+      internalID: 4363821512167993678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 917
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ada50c2e57f57780800000000000000
+      internalID: -8685764322476577370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 905
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7187b0f12f650bf30800000000000000
+      internalID: 4589263618193455127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrayMouse
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 703
+        width: 232
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70afafb6e844ff140800000000000000
+      internalID: 4755595110014188039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 718
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0652914c53c1f4d0800000000000000
+      internalID: -3102483867277044211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 703
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49621cd747dc660c0800000000000000
+      internalID: -4582749670593190252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 257
+        height: 507
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01ae58bc764023f0800000000000000
+      internalID: -927664021755223793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFish
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 523
+        width: 241
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a606d1efd38fb0480800000000000000
+      internalID: -8931772490819215254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 509
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efeb73d2752e32cd0800000000000000
+      internalID: -2583972897131872514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 317
+        width: 188
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f40f9e7c19c4650800000000000000
+      internalID: 6218505473301172040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedFish
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 507
+        width: 235
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dcefcdcf3e309e20800000000000000
+      internalID: 3355250166147837145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 509
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b845f73880cc5980800000000000000
+      internalID: -8548746301369136974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 463
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7a5750b26373d60800000000000000
+      internalID: 7869818432256321443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 307
+        width: 211
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20fc256e088691c0800000000000000
+      internalID: -4497257582474498006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeFish
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 504
+        width: 244
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 10, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef228d36624f8e980800000000000000
+      internalID: -8509283050195508482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 501
+        width: 83
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97b0d95ed0a1ca60800000000000000
+      internalID: 7692606515375552411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 431
+        width: 194
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee0d16f70529e3e0800000000000000
+      internalID: -2024045841402229020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 310
+        width: 245
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99610c7e91b767e70800000000000000
+      internalID: 9112606247223301785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 511
+        width: 199
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a462162a8a94fa20800000000000000
+      internalID: 3095268762045277351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 321
+        width: 255
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1416faeac9a85fc0800000000000000
+      internalID: -3505865620917447652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 293
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02d12837577c6120800000000000000
+      internalID: 2408431117223973388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 321
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a165b4833f0c40c60800000000000000
+      internalID: 7783558206857106970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 0
+        width: 195
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c2d1658fadd4bd0800000000000000
+      internalID: -2644216646065116062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 313
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eaaad8e33e1a0010800000000000000
+      internalID: 1155769462672763616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 299
+        width: 273
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f09ef35c83f4690800000000000000
+      internalID: -7615806025028268195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 285
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2250660ce10aa0e20800000000000000
+      internalID: 3317640129449166114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 289
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8d62c2d38c330e0800000000000000
+      internalID: -2291267620342146894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 27
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cddaf78d51c72e10800000000000000
+      internalID: 2172917952687037888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Toy
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 15
+        width: 278
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c4a4ba3c7f70680800000000000000
+      internalID: -8788783728025777150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 28
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b60ad4381b4aa90800000000000000
+      internalID: -7303517518186910831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 35
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa907abea3c6c5f0800000000000000
+      internalID: -736686333808829697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 18
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efa1e7b8f4a029e0800000000000000
+      internalID: -1648136075473735711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 63
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23150bd15d18769b0800000000000000
+      internalID: -5086954501765574350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 17
+        width: 257
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a78e1c32cf8ad50800000000000000
+      internalID: 6748921272121981477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 15
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df9224ab7bb32650800000000000000
+      internalID: 6207010851155779540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 0
+        width: 297
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9deadc82e4f1ca0800000000000000
+      internalID: -6044026237751469662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 13
+        width: 139
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a033fca96aba7f0800000000000000
+      internalID: -600202941492426208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cute Cat Toy Asset Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 31
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c995adeb04e88010800000000000000
+      internalID: 1191452841322322377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8889d3d277c704540829df94e2ae8012
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Blue Yarn: 6936568309207723197
+      BlueFish: -8931772490819215254
+      Cat Toy: -8788783728025777150
+      Cute Cat Toy Asset Sheet_0: 2768090650231206883
+      Cute Cat Toy Asset Sheet_10: -722186852134119816
+      Cute Cat Toy Asset Sheet_11: -7623038966140848113
+      Cute Cat Toy Asset Sheet_12: -6635980058779451787
+      Cute Cat Toy Asset Sheet_13: -4771445595735460150
+      Cute Cat Toy Asset Sheet_15: -6688781188221064971
+      Cute Cat Toy Asset Sheet_16: 3800939049024882925
+      Cute Cat Toy Asset Sheet_17: 9091600280844623856
+      Cute Cat Toy Asset Sheet_18: 4363821512167993678
+      Cute Cat Toy Asset Sheet_19: -8685764322476577370
+      Cute Cat Toy Asset Sheet_2: 9139365982019211649
+      Cute Cat Toy Asset Sheet_20: 4589263618193455127
+      Cute Cat Toy Asset Sheet_22: -3102483867277044211
+      Cute Cat Toy Asset Sheet_23: -4582749670593190252
+      Cute Cat Toy Asset Sheet_24: -927664021755223793
+      Cute Cat Toy Asset Sheet_26: -2583972897131872514
+      Cute Cat Toy Asset Sheet_27: 6218505473301172040
+      Cute Cat Toy Asset Sheet_29: -8548746301369136974
+      Cute Cat Toy Asset Sheet_3: -675372697188560083
+      Cute Cat Toy Asset Sheet_30: 7869818432256321443
+      Cute Cat Toy Asset Sheet_31: -4497257582474498006
+      Cute Cat Toy Asset Sheet_33: 7692606515375552411
+      Cute Cat Toy Asset Sheet_34: -2024045841402229020
+      Cute Cat Toy Asset Sheet_35: 9112606247223301785
+      Cute Cat Toy Asset Sheet_36: 3095268762045277351
+      Cute Cat Toy Asset Sheet_38: 2408431117223973388
+      Cute Cat Toy Asset Sheet_39: 7783558206857106970
+      Cute Cat Toy Asset Sheet_4: 6319821137305337686
+      Cute Cat Toy Asset Sheet_40: -2644216646065116062
+      Cute Cat Toy Asset Sheet_41: 1155769462672763616
+      Cute Cat Toy Asset Sheet_42: -7615806025028268195
+      Cute Cat Toy Asset Sheet_43: 3317640129449166114
+      Cute Cat Toy Asset Sheet_44: -2291267620342146894
+      Cute Cat Toy Asset Sheet_45: 2172917952687037888
+      Cute Cat Toy Asset Sheet_47: -7303517518186910831
+      Cute Cat Toy Asset Sheet_48: -736686333808829697
+      Cute Cat Toy Asset Sheet_49: -1648136075473735711
+      Cute Cat Toy Asset Sheet_5: -5730288950317160149
+      Cute Cat Toy Asset Sheet_50: -5086954501765574350
+      Cute Cat Toy Asset Sheet_51: 6748921272121981477
+      Cute Cat Toy Asset Sheet_52: 6207010851155779540
+      Cute Cat Toy Asset Sheet_53: -6044026237751469662
+      Cute Cat Toy Asset Sheet_54: -600202941492426208
+      Cute Cat Toy Asset Sheet_55: 1191452841322322377
+      Cute Cat Toy Asset Sheet_6: -7534958180660666574
+      Cute Cat Toy Asset Sheet_7: 6537146656457218529
+      Cute Cat Toy Asset Sheet_9: -1585479490541666938
+      GrayMouse: 4755595110014188039
+      Mouse: -3505865620917447652
+      OrangeFish: -8509283050195508482
+      Red Yarn: -6952300567054922050
+      RedFish: 3355250166147837145
+      Yarn: -8911404591885587068
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

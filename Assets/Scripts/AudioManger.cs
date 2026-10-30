@@ -65,4 +65,14 @@ public class AudioManager : MonoBehaviour
     {
         audioSource.PlayOneShot(gameOverSound);
     }
+
+    // Stops any sound currently playing through the AudioSource
+    public void StopSound()
+    {
+        // Make sure the AudioSource exists before stopping it
+        if (audioSource != null)
+        {
+            audioSource.Stop();
+        }
+    }
 }

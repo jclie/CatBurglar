@@ -67,7 +67,7 @@ public class GameManager : MonoBehaviour
                     // Play the timer warning sound
                     if (audioManager != null)
                     {
-                        audioManager.PlayLootPickup();
+                        audioManager.PlayTimerRunningLow();
                     }
 
                     // Remember which second already played a sound

@@ -16,6 +16,22 @@ public class Loot : MonoBehaviour
     // Stores a reference to the Player's inventory
     private PlayerInventory playerInventory;
 
+    // Reference to the interaction popup
+    private Popup popup;
+
+    // Start runs once when the loot object is created
+    void Start()
+    {
+        // Find the interaction popup in the scene
+        popup = FindAnyObjectByType<Popup>();
+
+        // Warn us if the popup could not be found
+        if (popup == null)
+        {
+            Debug.LogWarning("Popup could not be found.");
+        }
+    }
+
     // Update runs once every frame
     void Update()
     {
@@ -38,6 +54,12 @@ public class Loot : MonoBehaviour
             // Get the PlayerInventory component from the Player
             playerInventory = other.GetComponent<PlayerInventory>();
 
+            // Show the interaction popup
+            if (popup != null)
+            {
+                popup.ShowPrompt("[E] Steal " + itemName);
+            }
+
             // Tell us that interaction is available
             Debug.Log("Press E to steal " + itemName);
         }
@@ -54,6 +76,12 @@ public class Loot : MonoBehaviour
 
             // Clear the inventory reference
             playerInventory = null;
+
+            // Hide the interaction popup
+            if (popup != null)
+            {
+                popup.HidePrompt();
+            }
         }
     }
 
@@ -68,12 +96,23 @@ public class Loot : MonoBehaviour
         }
 
         // Ask the PlayerInventory to pick up this item
+        // Try to give this loot item to the Player
         bool pickupSuccessful =
-            playerInventory.PickUpItem(itemName, pointValue);
+            playerInventory.PickUpItem(
+                itemName,
+                pointValue,
+                gameObject
+            );
 
         // Only remove the loot from the floor if pickup succeeded
         if (pickupSuccessful)
         {
+            // Hide the interaction popup because
+            // the loot has been picked up
+            if (popup != null)
+            {
+                popup.HidePrompt();
+            }
             // Find the AudioManager and play the pickup sound
             AudioManager audioManager =
                 FindAnyObjectByType<AudioManager>();
@@ -82,7 +121,7 @@ public class Loot : MonoBehaviour
             {
                 audioManager.PlayLootPickup();
             }
-            
+
             Debug.Log("Picked up " + itemName + "!");
 
             // Hide this loot object

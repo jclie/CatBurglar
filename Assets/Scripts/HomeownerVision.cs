@@ -191,6 +191,16 @@ public class HomeownerVision : MonoBehaviour
         // Confirm that the catch happened
         Debug.Log("CAUGHT!");
 
+        // Find the AudioManager
+        AudioManager audioManager =
+            FindAnyObjectByType<AudioManager>();
+
+        // Stop the homeowner alert sound
+        if (audioManager != null)
+        {
+            audioManager.StopSound();
+        }
+
         // Make sure we still have a reference to the Player
         if (player != null)
         {
@@ -228,7 +238,7 @@ public class HomeownerVision : MonoBehaviour
 
         // Reset the alert because the Player successfully hid
         alertSoundPlayed = false;
-        
+
         // Clear the stored Player reference
         player = null;
     }

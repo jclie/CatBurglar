@@ -205,13 +205,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Chibi Cat and Homeowner Sprite Sheets_3
+      name: Cat_Left_Idle
       rect:
         serializedVersion: 2
-        x: 0
-        y: 261
-        width: 891
-        height: 403
+        x: 103
+        y: 274
+        width: 118
+        height: 169
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -351,9 +351,9 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       Cat_Idle_Down: 7142514178639612131
+      Cat_Left_Idle: 5186744512375833980
       Chibi Cat and Homeowner Sprite Sheets_1: 3863969047691484154
       Chibi Cat and Homeowner Sprite Sheets_2: 8885862482891064328
-      Chibi Cat and Homeowner Sprite Sheets_3: 5186744512375833980
       Chibi Cat and Homeowner Sprite Sheets_4: 7782433041261363961
       Chibi Cat and Homeowner Sprite Sheets_5: -472035426058447932
       Chibi Cat and Homeowner Sprite Sheets_6: -4210857457288785593

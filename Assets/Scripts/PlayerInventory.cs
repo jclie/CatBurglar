@@ -10,6 +10,9 @@ public class PlayerInventory : MonoBehaviour
     // Stores the point value of the currently carried item
     public int carriedItemValue = 0;
 
+    // Stores the actual loot GameObject currently being carried
+    public GameObject carriedLootObject;
+
     // Returns true if the player is carrying an item
     public bool IsCarryingItem()
     {
@@ -17,7 +20,10 @@ public class PlayerInventory : MonoBehaviour
     }
 
     // Attempts to pick up a loot item
-    public bool PickUpItem(string itemName, int pointValue)
+    public bool PickUpItem(
+        string itemName,
+        int pointValue,
+        GameObject lootObject)
     {
         // Do not allow another item if the player
         // is already carrying something
@@ -32,9 +38,15 @@ public class PlayerInventory : MonoBehaviour
             return false;
         }
 
-        // Store the item's information
+        // Store the item's name
         carriedItemName = itemName;
+
+        // Store the item's point value
         carriedItemValue = pointValue;
+
+        // Store the actual loot GameObject
+        // so it can be returned if the player gets caught
+        carriedLootObject = lootObject;
 
         // Temporary message for testing
         Debug.Log(
@@ -48,7 +60,8 @@ public class PlayerInventory : MonoBehaviour
         return true;
     }
 
-    // Removes the item currently being carried
+    // Removes the item after it has been
+    // successfully deposited at CatHome
     public void ClearCarriedItem()
     {
         // Clear the item name
@@ -57,6 +70,10 @@ public class PlayerInventory : MonoBehaviour
         // Reset its value
         carriedItemValue = 0;
 
+        // Forget the loot GameObject
+        // Do NOT reactivate it because it was successfully stolen
+        carriedLootObject = null;
+
         // Temporary testing message
         Debug.Log("Inventory is now empty.");
     }
@@ -64,21 +81,26 @@ public class PlayerInventory : MonoBehaviour
     // Removes the player's carried loot when they get caught
     public void LoseCarriedItem()
     {
-        // Check whether the player was actually carrying something
-        if (IsCarryingItem())
+        // Check whether there is an actual loot object being carried
+        if (carriedLootObject != null)
         {
-            // Tell us which item was lost
+            // Make the loot appear again at its original location
+            carriedLootObject.SetActive(true);
+
+            // Tell us which item was returned
             Debug.Log(
-                "Lost " +
                 carriedItemName +
-                " because the player was caught!"
+                " returned to its original location."
             );
         }
 
-        // Remove the carried item's information
+        // Remove the carried item's name
         carriedItemName = "";
 
         // Reset its point value
         carriedItemValue = 0;
+
+        // Clear the stored loot GameObject
+        carriedLootObject = null;
     }
 }
