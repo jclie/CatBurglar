@@ -17,10 +17,20 @@ public class HomeownerPatrol : MonoBehaviour
     // the Homeowner is currently moving toward
     private int currentPointIndex = 0;
 
+    // Rigidbody used to move the Homeowner
+    private Rigidbody2D rb;
+
+    // Start runs once when the game begins
+    void Start()
+    {
+        // Get the Homeowner's Rigidbody2D
+        rb = GetComponent<Rigidbody2D>();
+    }
+
     // Update runs once every frame
     void Update()
     {
-        // Stop if no patrol points have been assigned
+        // Stop if there are no patrol points
         if (patrolPoints.Length == 0)
         {
             return;
@@ -29,8 +39,7 @@ public class HomeownerPatrol : MonoBehaviour
         // Get the current patrol destination
         Transform targetPoint = patrolPoints[currentPointIndex];
 
-        // Calculate the direction from the Homeowner
-        // toward the patrol point
+        // Calculate the direction toward the patrol point
         Vector2 direction =
             targetPoint.position - transform.position;
 
@@ -41,22 +50,21 @@ public class HomeownerPatrol : MonoBehaviour
             moveSpeed * Time.deltaTime
         );
 
-        // Turn the field of vision toward
-        // the direction the Homeowner is walking
+        // Turn the vision toward the direction
+        // the Homeowner is currently walking
         UpdateVisionDirection(direction);
 
         // Check whether the Homeowner reached
         // the current patrol point
         if (Vector2.Distance(
-                transform.position,
-                targetPoint.position
-            ) < 0.1f)
+            transform.position,
+            targetPoint.position) < 0.1f)
         {
-            // Move on to the next patrol point
+            // Move to the next patrol point
             currentPointIndex++;
 
-            // If we reached the final patrol point,
-            // start again at the first point
+            // Return to the first patrol point
+            // after reaching the last one
             if (currentPointIndex >= patrolPoints.Length)
             {
                 currentPointIndex = 0;

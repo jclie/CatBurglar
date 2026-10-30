@@ -84,30 +84,37 @@ public class HomeownerVision : MonoBehaviour
         }
     }
 
-    // Runs when another 2D collider leaves
-    // the homeowner's vision trigger
+    // Runs when the Player leaves the Homeowner's vision area
     private void OnTriggerExit2D(Collider2D other)
     {
-        // Allow the alert sound to play again
-        // during the next detection
-        alertSoundPlayed = false;
-
-        // Only react to the Player
+        // Check whether the Player left the vision area
         if (other.CompareTag("Player"))
         {
             // Player is no longer inside the vision area
             playerInsideVision = false;
 
-            // Stop detecting the Player
+            // Player is no longer detected
             playerDetected = false;
 
             // Reset the detection timer
             detectionTimer = 0f;
 
-            // Clear the Player reference
-            player = null;
+            // Allow the alert sound to play again
+            // during the next detection
+            alertSoundPlayed = false;
 
-            Debug.Log("Player left vision.");
+            // Find the AudioManager
+            AudioManager audioManager =
+                FindAnyObjectByType<AudioManager>();
+
+            // Stop the current alert sound
+            if (audioManager != null)
+            {
+                audioManager.StopSound();
+            }
+
+            // Clear the stored Player reference
+            player = null;
         }
     }
 
